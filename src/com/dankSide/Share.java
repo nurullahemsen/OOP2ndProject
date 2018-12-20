@@ -34,7 +34,7 @@ public class Share extends AbstractObservable {
             this.price = price;
             notifyObservers();
             try {
-                Main.printTextAndStdout("\n","file.txt");
+                Main.printTextAndStdout("\n","sonuçlar.txt");
                 }catch (FileNotFoundException e){
                 e.getMessage();
                 }

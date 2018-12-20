@@ -36,7 +36,7 @@ public class Main {
         System.out.println(print);
     }
     public static void clearFile() throws FileNotFoundException{
-        PrintWriter pw = new PrintWriter("file.txt");
+        PrintWriter pw = new PrintWriter("sonuçlar.txt");
         pw.close();
     }
     public static void init() throws FileNotFoundException{

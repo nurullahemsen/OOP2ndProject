@@ -15,7 +15,7 @@ public class StockBroker implements Observer {
         String s = String.format("%s is updated on %s",name,element);
 
         try {
-            Main.printTextAndStdout(s,"file.txt");
+            Main.printTextAndStdout(s,"sonuçlar.txt");
         }catch (FileNotFoundException e){
             e.getMessage();
         }
