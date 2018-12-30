@@ -8,17 +8,25 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
         init();
-
     }
+    /**
+     * Waits in milliseconds
+     *
+     */
     public static void wait(int milliseconds){
+
         try{
             Thread.sleep(milliseconds);
         }catch (InterruptedException e){
             e.getMessage();
         }
     }
-
+    /**
+     * Prints the string to both Stout and a text file
+     *
+     */
     public static void printTextAndStdout(String print, String fileName) throws FileNotFoundException{
+
         PrintStream ps_console = System.out;
 
         File file = new File(fileName);
@@ -31,19 +39,26 @@ public class Main {
         System.setOut(ps);
         System.out.println(print);
 
-        // Set console print stream.
+        // Set console print stream and print again.
         System.setOut(ps_console);
         System.out.println(print);
     }
-    public static void clearFile() throws FileNotFoundException{
-        PrintWriter pw = new PrintWriter("sonuçlar.txt");
+    /**
+     * Clears the contents of a file
+     *
+     */
+    public static void clearFile(String fileName) throws FileNotFoundException{
+
+        PrintWriter pw = new PrintWriter(fileName);
         pw.close();
     }
+    /**
+     * Iniates the program. Creates share and stock broker instances and starts the update threads.
+     *
+     */
     public static void init() throws FileNotFoundException{
 
-
-        clearFile();
-
+        clearFile("sonuçlar.txt"); //Clears the old "sonuçlar.txt" file
 
         StockBroker erich = new StockBroker("Erich Ludendorff");
         StockBroker arthur = new StockBroker("Arthur Curry");
@@ -54,7 +69,6 @@ public class Main {
         StockBroker ferdinand = new StockBroker("Ferdinand Foch");
         StockBroker philippe = new StockBroker("Philippe Pétain");
         StockBroker enver = new StockBroker("Enver Pasha");
-
 
         Share UK = new Share("British war bonds",35);
         UK.addObserver(arthur);
@@ -78,13 +92,10 @@ public class Main {
         OttomanEmpire.addObserver(paul);
         OttomanEmpire.addObserver(enver);
 
-
-
         UK.updateShare();
         France.updateShare();
         Germany.updateShare();
         AustriaHungary.updateShare();
         OttomanEmpire.updateShare();
-
     }
 }

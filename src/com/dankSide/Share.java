@@ -13,6 +13,10 @@ public class Share extends AbstractObservable {
 
     }
 
+    /**
+     * Synchronized method, only one can execute in a multiple thread environment at one given moment.
+     * It calls update method of all the obeservers
+     */
     @Override
     public synchronized void notifyObservers() {
         for(Observer observer : super.getObs()){
@@ -29,6 +33,10 @@ public class Share extends AbstractObservable {
         return price;
     }
 
+    /**
+     * This method updates the price and notify all observers observing it.
+     * @param price price of the Share, integer
+     */
     public void setPrice(int price) {
         if(this.price != price){
             this.price = price;
@@ -41,12 +49,20 @@ public class Share extends AbstractObservable {
         }
     }
 
+    /**
+     * This methods updates each share independently using threads.
+     * First it creates a thread with an unnamed Runnable object.
+     * Inside the Runnable object a run method is implemented.
+     * In the thread an object has 30% probabiliy to update in every time sequence.
+     * A time sequence is randomly selected milliseconds which extends from 0 ms to 1000 ms.
+     * At each update the absolute update multiplier is multiplied with (-1) in order to price to go up or down concurrently.
+     * The method finishes with starting the thread.
+     */
     public void updateShare(){
-
         Thread t = new Thread(new Runnable() {
             @Override
             public void run() {
-                int negORpos = 1;
+                int multiplier = 1;
                 Random r = new Random();
                 int timeCounter = 0;
                 while(timeCounter < 10000){
@@ -54,17 +70,10 @@ public class Share extends AbstractObservable {
                     Main.wait(time);
                     timeCounter += time;
                     if(r.nextDouble() <0.3){
-//                        String s = String.format("time: %3d ms",timeCounter);
-//                        try {
-//                            Main.printTextAndStdout(s,"file.txt");
-//                        }catch (FileNotFoundException e){
-//                            e.getMessage();
-//                        }
-                        setPrice(getPrice() + negORpos*r.nextInt(3));
-                        negORpos *= -1;
+                        setPrice(getPrice() + multiplier*r.nextInt(3));
+                        multiplier *= -1;
                     }
                 }
-
             }
         });
         t.start();
