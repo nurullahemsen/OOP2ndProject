@@ -1,10 +1,33 @@
+Philippe Pétain is updated on French war bonds currently at 26$
+Ferdinand Foch is updated on French war bonds currently at 26$
+Arthur Curry is updated on French war bonds currently at 26$
+
+
 Philippe Pétain is updated on French war bonds currently at 27$
 Ferdinand Foch is updated on French war bonds currently at 27$
 Arthur Curry is updated on French war bonds currently at 27$
 
 
-Paul von Hindenburg is updated on Turkish war bonds currently at 11$
-Enver Pasha is updated on Turkish war bonds currently at 11$
+Philippe Pétain is updated on French war bonds currently at 25$
+Ferdinand Foch is updated on French war bonds currently at 25$
+Arthur Curry is updated on French war bonds currently at 25$
+
+
+Conrad von Hotzendorf is updated on Austrian war bonds currently at 16$
+Erich Ludendorff is updated on Austrian war bonds currently at 16$
+
+
+Philippe Pétain is updated on French war bonds currently at 24$
+Ferdinand Foch is updated on French war bonds currently at 24$
+Arthur Curry is updated on French war bonds currently at 24$
+
+
+Paul von Hindenburg is updated on Turkish war bonds currently at 9$
+Enver Pasha is updated on Turkish war bonds currently at 9$
+
+
+Paul von Hindenburg is updated on Turkish war bonds currently at 7$
+Enver Pasha is updated on Turkish war bonds currently at 7$
 
 
 Arthur Curry is updated on British war bonds currently at 37$
@@ -13,20 +36,11 @@ Douglas Haig is updated on British war bonds currently at 37$
 Philippe Pétain is updated on British war bonds currently at 37$
 
 
-Erich Ludendorff is updated on German war bonds currently at 39$
-Paul von Hindenburg is updated on German war bonds currently at 39$
-Enver Pasha is updated on German war bonds currently at 39$
-Conrad von Hotzendorf is updated on German war bonds currently at 39$
-Philippe Pétain is updated on German war bonds currently at 39$
-
-
-Philippe Pétain is updated on French war bonds currently at 29$
-Ferdinand Foch is updated on French war bonds currently at 29$
-Arthur Curry is updated on French war bonds currently at 29$
-
-
-Conrad von Hotzendorf is updated on Austrian war bonds currently at 16$
-Erich Ludendorff is updated on Austrian war bonds currently at 16$
+Erich Ludendorff is updated on German war bonds currently at 42$
+Paul von Hindenburg is updated on German war bonds currently at 42$
+Enver Pasha is updated on German war bonds currently at 42$
+Conrad von Hotzendorf is updated on German war bonds currently at 42$
+Philippe Pétain is updated on German war bonds currently at 42$
 
 
 Arthur Curry is updated on British war bonds currently at 36$
@@ -35,67 +49,13 @@ Douglas Haig is updated on British war bonds currently at 36$
 Philippe Pétain is updated on British war bonds currently at 36$
 
 
-Philippe Pétain is updated on French war bonds currently at 27$
-Ferdinand Foch is updated on French war bonds currently at 27$
-Arthur Curry is updated on French war bonds currently at 27$
-
-
-Erich Ludendorff is updated on German war bonds currently at 41$
-Paul von Hindenburg is updated on German war bonds currently at 41$
-Enver Pasha is updated on German war bonds currently at 41$
-Conrad von Hotzendorf is updated on German war bonds currently at 41$
-Philippe Pétain is updated on German war bonds currently at 41$
-
-
-Paul von Hindenburg is updated on Turkish war bonds currently at 10$
-Enver Pasha is updated on Turkish war bonds currently at 10$
-
-
-Erich Ludendorff is updated on German war bonds currently at 40$
-Paul von Hindenburg is updated on German war bonds currently at 40$
-Enver Pasha is updated on German war bonds currently at 40$
-Conrad von Hotzendorf is updated on German war bonds currently at 40$
-Philippe Pétain is updated on German war bonds currently at 40$
-
-
 Conrad von Hotzendorf is updated on Austrian war bonds currently at 15$
 Erich Ludendorff is updated on Austrian war bonds currently at 15$
 
 
-Philippe Pétain is updated on French war bonds currently at 25$
-Ferdinand Foch is updated on French war bonds currently at 25$
-Arthur Curry is updated on French war bonds currently at 25$
-
-
-Erich Ludendorff is updated on German war bonds currently at 42$
-Paul von Hindenburg is updated on German war bonds currently at 42$
-Enver Pasha is updated on German war bonds currently at 42$
-Conrad von Hotzendorf is updated on German war bonds currently at 42$
-Philippe Pétain is updated on German war bonds currently at 42$
-
-
-Erich Ludendorff is updated on German war bonds currently at 40$
-Paul von Hindenburg is updated on German war bonds currently at 40$
-Enver Pasha is updated on German war bonds currently at 40$
-Conrad von Hotzendorf is updated on German war bonds currently at 40$
-Philippe Pétain is updated on German war bonds currently at 40$
-
-
-Paul von Hindenburg is updated on Turkish war bonds currently at 12$
-Enver Pasha is updated on Turkish war bonds currently at 12$
-
-
-Arthur Curry is updated on British war bonds currently at 38$
-John Monash is updated on British war bonds currently at 38$
-Douglas Haig is updated on British war bonds currently at 38$
-Philippe Pétain is updated on British war bonds currently at 38$
-
-
-Erich Ludendorff is updated on German war bonds currently at 42$
-Paul von Hindenburg is updated on German war bonds currently at 42$
-Enver Pasha is updated on German war bonds currently at 42$
-Conrad von Hotzendorf is updated on German war bonds currently at 42$
-Philippe Pétain is updated on German war bonds currently at 42$
+Philippe Pétain is updated on French war bonds currently at 22$
+Ferdinand Foch is updated on French war bonds currently at 22$
+Arthur Curry is updated on French war bonds currently at 22$
 
 
 Arthur Curry is updated on British war bonds currently at 37$
@@ -104,8 +64,80 @@ Douglas Haig is updated on British war bonds currently at 37$
 Philippe Pétain is updated on British war bonds currently at 37$
 
 
+Philippe Pétain is updated on French war bonds currently at 21$
+Ferdinand Foch is updated on French war bonds currently at 21$
+Arthur Curry is updated on French war bonds currently at 21$
+
+
+Erich Ludendorff is updated on German war bonds currently at 43$
+Paul von Hindenburg is updated on German war bonds currently at 43$
+Enver Pasha is updated on German war bonds currently at 43$
+Conrad von Hotzendorf is updated on German war bonds currently at 43$
+Philippe Pétain is updated on German war bonds currently at 43$
+
+
+Conrad von Hotzendorf is updated on Austrian war bonds currently at 16$
+Erich Ludendorff is updated on Austrian war bonds currently at 16$
+
+
+Conrad von Hotzendorf is updated on Austrian war bonds currently at 15$
+Erich Ludendorff is updated on Austrian war bonds currently at 15$
+
+
+Arthur Curry is updated on British war bonds currently at 38$
+John Monash is updated on British war bonds currently at 38$
+Douglas Haig is updated on British war bonds currently at 38$
+Philippe Pétain is updated on British war bonds currently at 38$
+
+
+Arthur Curry is updated on British war bonds currently at 39$
+John Monash is updated on British war bonds currently at 39$
+Douglas Haig is updated on British war bonds currently at 39$
+Philippe Pétain is updated on British war bonds currently at 39$
+
+
+Erich Ludendorff is updated on German war bonds currently at 44$
+Paul von Hindenburg is updated on German war bonds currently at 44$
+Enver Pasha is updated on German war bonds currently at 44$
+Conrad von Hotzendorf is updated on German war bonds currently at 44$
+Philippe Pétain is updated on German war bonds currently at 44$
+
+
+Erich Ludendorff is updated on German war bonds currently at 46$
+Paul von Hindenburg is updated on German war bonds currently at 46$
+Enver Pasha is updated on German war bonds currently at 46$
+Conrad von Hotzendorf is updated on German war bonds currently at 46$
+Philippe Pétain is updated on German war bonds currently at 46$
+
+
 Philippe Pétain is updated on French war bonds currently at 23$
 Ferdinand Foch is updated on French war bonds currently at 23$
 Arthur Curry is updated on French war bonds currently at 23$
+
+
+Erich Ludendorff is updated on German war bonds currently at 45$
+Paul von Hindenburg is updated on German war bonds currently at 45$
+Enver Pasha is updated on German war bonds currently at 45$
+Conrad von Hotzendorf is updated on German war bonds currently at 45$
+Philippe Pétain is updated on German war bonds currently at 45$
+
+
+Conrad von Hotzendorf is updated on Austrian war bonds currently at 16$
+Erich Ludendorff is updated on Austrian war bonds currently at 16$
+
+
+Conrad von Hotzendorf is updated on Austrian war bonds currently at 17$
+Erich Ludendorff is updated on Austrian war bonds currently at 17$
+
+
+Paul von Hindenburg is updated on Turkish war bonds currently at 6$
+Enver Pasha is updated on Turkish war bonds currently at 6$
+
+
+Erich Ludendorff is updated on German war bonds currently at 46$
+Paul von Hindenburg is updated on German war bonds currently at 46$
+Enver Pasha is updated on German war bonds currently at 46$
+Conrad von Hotzendorf is updated on German war bonds currently at 46$
+Philippe Pétain is updated on German war bonds currently at 46$
 
 

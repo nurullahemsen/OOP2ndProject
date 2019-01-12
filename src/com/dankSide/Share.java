@@ -71,7 +71,8 @@ public class Share extends AbstractObservable {
                     timeCounter += time;
                     if(r.nextDouble() <0.3){
                         setPrice(getPrice() + multiplier*r.nextInt(3));
-                        multiplier *= -1;
+//                        multiplier *= -1;
+                        multiplier = r.nextBoolean() ? 1 : -1;
                     }
                 }
             }

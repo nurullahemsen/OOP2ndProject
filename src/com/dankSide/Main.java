@@ -25,7 +25,7 @@ public class Main {
      * Prints the string to both Stout and a text file
      *
      */
-    public static void printTextAndStdout(String print, String fileName) throws FileNotFoundException{
+    public static synchronized void printTextAndStdout(String print, String fileName) throws FileNotFoundException{
 
         PrintStream ps_console = System.out;
 
